@@ -1,7 +1,6 @@
 {
   "version": 2,
   "name": "yanna-website",
-  "regions": ["sin1", "hnd1"],
   "builds": [
     {
       "src": "*.html",
