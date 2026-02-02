@@ -1,16 +1,5 @@
 {
   "version": 2,
-  "name": "yanna-website",
-  "builds": [
-    {
-      "src": "*.html",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "*.{css,ico,png,jpg,jpeg,gif,svg,woff,woff2,ttf,eot}",
-      "use": "@vercel/static"
-    }
-  ],
   "headers": [
     {
       "source": "/(.*)",
